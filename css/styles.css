@@ -10,18 +10,6 @@ h1 {
   color: lightpink;
 }
 
-nav a img {
-  margin: 10px;
-  padding: 3px;
-  width: 50px;
-}
-
-.card img {
-  position: absolute;
-  top: px;
-  right: 5px;
-}
-
 .hashtag {
   display: flex;
   justify-content: space-around;
@@ -32,4 +20,5 @@ nav a img {
   padding: 2px;
   margin: 2px;
   border: 1px solid black;
+  font-size: 0.5rem;
 }
